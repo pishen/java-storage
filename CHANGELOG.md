@@ -1,5 +1,22 @@
 # Changelog
 
+### [1.107.1](https://www.github.com/googleapis/java-storage/compare/v1.107.0...v1.107.1) (2020-04-20)
+
+
+### Bug Fixes
+
+* Documentation for Blob.update() and Storage.update() methods is confusing/incorrect ([#261](https://www.github.com/googleapis/java-storage/issues/261)) ([876405f](https://www.github.com/googleapis/java-storage/commit/876405f81cf195f5619b353be8d1e8efcbf5e0b3)), closes [#252](https://www.github.com/googleapis/java-storage/issues/252)
+
+
+### Dependencies
+
+* update dependency io.grpc:grpc-bom to v1.28.1 ([#250](https://www.github.com/googleapis/java-storage/issues/250)) ([b35e81c](https://www.github.com/googleapis/java-storage/commit/b35e81ce19fa72672aefe8bd956959bfa954194c))
+
+
+### Documentation
+
+* label legacy storage classes in documentation ([#267](https://www.github.com/googleapis/java-storage/issues/267)) ([50e5938](https://www.github.com/googleapis/java-storage/commit/50e5938147f7bb2594b9a142e8087c6e555f4979)), closes [#254](https://www.github.com/googleapis/java-storage/issues/254)
+
 ## [1.107.0](https://www.github.com/googleapis/java-storage/compare/v1.106.0...v1.107.0) (2020-04-14)
 
 
